@@ -1,0 +1,5 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/beautyssm_api_user.iml
